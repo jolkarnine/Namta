@@ -16,5 +16,7 @@ ditiyo.addEventListener("click",function(){
         document.body.style.marginTop='250px'
         document.body.style.fontFamily='Oswald, sans-serif'
         document.body.style.fontSize='20px'
+
     }
+
 })
